@@ -1,0 +1,13 @@
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.exe
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.deps.json
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.runtimeconfig.json
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.runtimeconfig.dev.json
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.dll
+C:\Users\fernanda1234\Desktop\Relatorio POO\bin\Debug\netcoreapp3.1\Relatorio POO.pdb
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.csprojAssemblyReference.cache
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.csproj.CoreCompileInputs.cache
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.AssemblyInfoInputs.cache
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.AssemblyInfo.cs
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.dll
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.pdb
+C:\Users\fernanda1234\Desktop\Relatorio POO\obj\Debug\netcoreapp3.1\Relatorio POO.genruntimeconfig.cache
